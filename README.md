@@ -1,3 +1,4 @@
+patch-1
 <img width="13616" height="5440" alt="image" src="https://github.com/user-attachments/assets/7e482828-6bf8-4a9a-9c4e-15614e3ea111" />
 
 <div align="center">
@@ -25,7 +26,7 @@
 
 </div>
 
----
+
 
 ```
   BTech CSE · Health Informatics   VIT Bhopal University
@@ -33,7 +34,7 @@
   Podcaster · Event Host           sawsaniya@gmail.com
 ```
 
----
+
 
 **about**
 
@@ -41,7 +42,7 @@ I build at the intersection of AI and accessibility — things that make technol
 
 Outside code: I run a self-produced podcast distributed across Spotify, Amazon Music, and more — audience in 16+ countries, zero co-hosts, all from scratch.
 
----
+
 
 **work**
 
@@ -53,7 +54,7 @@ Outside code: I run a self-produced podcast distributed across Spotify, Amazon M
 | `Multi-Modal Text Narration` | OCR + TTS accessibility app; led integration and stakeholder comms end-to-end |
 | `Colour Blindness App` | Solo Android build using Ishihara tests — 90% accuracy in user validation |
 
----
+
 
 **stack**
 
@@ -66,13 +67,13 @@ backend       Flask
 tools         Git · Business Analysis  
 ```
 
----
+
 
 **elsewhere**
 
 &ensp; [linkedin](https://linkedin.com/in/saniya-saw) &ensp;·&ensp; [podcast](https://open.spotify.com) &ensp;·&ensp; [email](mailto:sawsaniya@gmail.com)
 
----
+
 
 **recognition**
 
@@ -82,7 +83,7 @@ tools         Git · Business Analysis
 - Google IT Support Professional Certificate
 - Oracle AI Foundation Associate
 
----
+
 
 <div align="center">
 
@@ -111,3 +112,20 @@ tools         Git · Business Analysis
 <br/><br/>
 
 </div>
+
+
+
+<!--
+**saniyasaw-014/saniyasaw-014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
